@@ -27,7 +27,6 @@ You can use the fully deployed version of this application immediately by clicki
 | :--- | :--- |
 | `app.py` | The main Python script containing all the Streamlit application logic and the regex functions. |
 | `requirements.txt` | Lists the single required dependency: `streamlit`. |
-| `README.md` | This file. |
 
 -----
 
